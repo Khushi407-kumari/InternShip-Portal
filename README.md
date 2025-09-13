@@ -1,13 +1,13 @@
-Overview
+#Overview
 This project is a job opportunities portal that allows users to register, log in, and apply for job opportunities. It implements user authentication using JSON Web Tokens (JWT) and provides a seamless experience for both logged-in and logged-out users. The portal consists of three main pages: Login & Registration, Opportunities, and Dashboard. The application is built using MongoDB for the database and is deployed on a cloud platform for accessibility.
 
-Features
+#Features
 Login & Registration Page
 User authentication using JWT for secure registration, login, and logout functionalities.
 
 Securely store user credentials and session information.
 
-Opportunities Page
+#Opportunities Page
 Viewable by both logged-in and logged-out users.
 
 Only logged-in users can apply for opportunities.
