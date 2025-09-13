@@ -32,12 +32,12 @@ Start date
 
 Logged-in users can see their applied opportunities.
 
-Dashboard Page
+# Dashboard Page
 Allows users to add personal details such as name, age, date of birth, image, and other information.
 
 Personal details are visible to the user on their dashboard.
 
-Database
+# Database
 Utilizes MongoDB to store user information and opportunities data.
 
 Deployment
